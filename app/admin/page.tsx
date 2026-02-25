@@ -1,7 +1,7 @@
 "use client"
 
 import { useState } from "react"
-import { supabase } from "@/lib/supabase"
+import { supabase } from "../../lib/supabase"
 
 const ADMIN_EMAIL = "prasanna.ramesh@techmobius.com"
 
